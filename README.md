@@ -14,6 +14,12 @@ Open `Settings` of `rainbow-fart` and import the file.
 
 You can also download the zip file in the release page.
 
+## Languages Supported (仮)
+- JavaScript
+- Rust
+- Coq
+- Python / Python3
+
 ## Contribute
 
 欢迎通过发起Issue或Pull Requests添加更多语音或关键词支持！请在发起PR之前确认`build.sh`可以正常打包，这个脚本会检查JSON文件的合法性。
