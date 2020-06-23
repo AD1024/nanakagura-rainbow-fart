@@ -30,4 +30,4 @@ Please feel free to open pull requests and issues! For PRs, please make sure `bu
 
 语音剪辑：辣辣七奈军
 
-Voice clips are edited by members of ららななぐん
+Voice clips are edited by members of なな辛軍
