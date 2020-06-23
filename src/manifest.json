@@ -1,0 +1,212 @@
+{
+    "name": "Kaguranana",
+    "display-name": "カグラナナ 神乐七奈",
+    "avatar": "avatar.jpg",
+    "avatar-dark": "avatar-dark.jpg",
+    "version": "1.0.0",
+    "description": "狗妈监督我写代码",
+    "languages": [
+        "javascript",
+        "rust",
+        "java",
+        "python",
+        "python3",
+        "coq"
+    ],
+    "author": "AD1024",
+    "gender": "female",
+    "locale": "jp",
+    "contributes": [
+        {
+            "keywords": [
+                "fn",
+                "function",
+                "lambda",
+                "def",
+                "=>",
+                "impl",
+                "->",
+                "Theorem",
+                "Definition",
+                "Fixpoint",
+                "Inductive",
+                "Lemma",
+                "Proof"
+            ],
+            "voices": [
+                "yarimasune.wav",
+                "1145141919810.wav",
+                "114514.wav",
+                "1919.wav"
+            ]
+        },
+        {
+            "keywords" : [
+                "unwrap",
+                "throw",
+                "raise",
+                "Err",
+                "Exception",
+                "Abort"
+            ],
+            "voices" : [
+                "exceptions0.wav",
+                "exceptions1.wav",
+                "exceptions2.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "Ok"
+            ],
+            "voices": [
+                "ok.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "for",
+                "while",
+                "loop"
+            ],
+            "voices": [
+                "114514.wav",
+                "for0.wav",
+                "for1.wav",
+                "for2.wav"
+            ]
+        },
+        {
+            "keywords" : [
+                "{",
+                "}",
+                "Admitted",
+                "intro",
+                "destruct",
+                "induction",
+                "=",
+                ":",
+                "."
+            ],
+            "voices" : [
+                "don0.wav",
+                "don1.wav",
+                "don2.wav",
+                "don3.wav",
+                "don4.wav",
+                "baka0.wav",
+                "baka1.wav",
+                "baka2.wav",
+                "baka3.wav"
+            ]
+        },
+        {
+            "keywords" : [
+                "import",
+                "await",
+                "use"
+            ],
+            "voices" : [
+                "114514.wav",
+                "AWSL.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "return",
+                "yield",
+                "exit",
+                "Qed"
+            ],
+            "voices": [
+                "xopowo1.wav",
+                "xopowo2.wav",
+                "xopowo3.wav",
+                "erai.wav",
+                "yoshix4.wav",
+                "return.wav"
+            ]
+        },
+        {
+            "keywords" : [
+                "if",
+                "match",
+                "switch",
+                "else",
+                "elif",
+                "simpl",
+                "rewrite",
+                "apply"
+            ],
+            "voices" : [
+                "killdd0.wav",
+                "killdd1.wav",
+                "killdd2.wav",
+                "killdd3.wav",
+                "en.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "$time_morning"
+            ],
+            "voices": [
+                "greeting.wav",
+                "greeting_russian.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "$time_before_noon"
+            ],
+            "voices": [
+                "greeting_russian.wav",
+                "erai.wav",
+                "yoshix4.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "$time_noon"
+            ],
+            "voices": [
+                "noon.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "$time_evening"
+            ],
+            "voices": [
+                "evening.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "$time_midnight"
+            ],
+            "voices": [
+                "midnight0.wav",
+                "midnight1.wav"
+            ]
+        },
+        {
+            "keywords": [
+                "$time_each_hour"
+            ],
+            "voices": [
+                "noon.wav",
+                "erai.wav",
+                "yoshix4.wav",
+                "mamadayo.wav",
+                "otsukagura0.wav",
+                "otsukagura1.wav",
+                "otsukagura2.wav",
+                "otsukagura3.wav",
+                "otsukagura4.wav",
+                "chirito_chirito_chirichiri.wav",
+                "poyoto_poyoto_poyopoyoyo.wav"
+            ]
+        }
+    ]
+}
